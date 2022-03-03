@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:spotify="http://www.spotify.com/ns/rss">
+    <channel>
+        <title>Making It With Jimmy Diresta, Bob Clagett and David Picciuto</title>
+        <atom:link href="https://noinstructions.castos.com/making-it-with-jimmy-diresta-bob-clagett-and-david-picciuto" rel="self" type="application/rss+xml" />
+        <link>https://makingitpodcast.com</link>
+        <description>Making It is a weekly audio podcast that comes out every Friday hosted by Jimmy Diresta, Bob Clagett and David Picciuto. Three different makers with different backgrounds talking about creativity, design and making things with your bare hands.</description>
+        <lastBuildDate>Fri, 25 Feb 2022 10:36:47 +0000</lastBuildDate>
+        <language>en-us</language>
+        <copyright>© 2022 I Like To Make Stuff</copyright>
+
+        <spotify:limit recentCount="500" />
+
+        <spotify:countryOfOrigin>
+            US  
+        </spotify:countryOfOrigin>
+        <image>
+            <url>https://episodes.castos.com/noinstructions/images/makingititunes.jpg</url>
+            <title>Making It With Jimmy Diresta, Bob Clagett and David Picciuto</title>
+            <link>https://makingitpodcast.com</link>
+        </image>
+        <itunes:subtitle>Making It is a weekly audio podcast that comes out every Friday hosted by Jimmy Diresta, Bob Clagett and David Picciuto. Three different makers with different backgrounds talking about creativity, design and making things with your bare hands.</itunes:subtitle>
+        <itunes:author>I Like To Make Stuff</itunes:author>
+        <itunes:type>episodic</itunes:type>
+        <itunes:summary>Making It is a weekly audio podcast that comes out every Friday hosted by Jimmy Diresta, Bob Clagett and David Picciuto. Three different makers with different backgrounds talking about creativity, design and making things with your bare hands.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Jimmy Diresta, Bob Clagett, David Picciuto</itunes:name>
+            <itunes:email>admin@iliketomakestuff.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:image href="https://episodes.castos.com/noinstructions/images/makingititunes.jpg"></itunes:image>
+        <itunes:category text="Education">
+        </itunes:category>
+        <itunes:category text="Arts">
+            <itunes:category text="Design"></itunes:category>
+        </itunes:category>
+        <itunes:category text="Education">
+            <itunes:category text="How to"></itunes:category>
+        </itunes:category>
+        <podcast:locked>yes</podcast:locked>
+        <podcast:funding url="https://www.patreon.com/makingit">"Support our show!"</podcast:funding>
+
+        <item>
+            <title>
+                <![CDATA[Episode 344: The ROI in Q4]]>
+            </title>
+            <pubDate>Fri, 25 Feb 2022 10:36:47 +0000</pubDate>
+            <dc:creator>I Like To Make Stuff</dc:creator>
+            <guid isPermaLink="true">https://noinstructions.castos.com/podcasts/37384/episodes/episode-344-the-roi-in-q4</guid>
+            <link>https://noinstructions.castos.com/podcasts/37384/episodes/episode-344-the-roi-in-q4</link>
+            <description>
+                <![CDATA[This week Jimmy Diresta, Bob Clagett and David Picciuto talk about things they need to get better at. What We&#8217;re Working On Jimmy Diresta Finished the big machinists toolbox David...]]>
+            </description>
+            <itunes:subtitle>
+                <![CDATA[This week Jimmy Diresta, Bob Clagett and David Picciuto talk about things they need to get better at. What We’re Working On Jimmy Diresta Finished the big machinists toolbox David...]]>
+            </itunes:subtitle>
+            <itunes:title>
+                <![CDATA[Episode 344: The ROI in Q4]]>
+            </itunes:title>
+            <content:encoded>
+                <![CDATA[This week Jimmy Diresta, Bob Clagett and David Picciuto talk about things they need to get better at. What We&#8217;re Working On Jimmy Diresta Finished the big machinists toolbox David...]]>
+            </content:encoded>
+            <enclosure url="https://episodes.castos.com/noinstructions/b0efca22-b1ef-45d0-bd65-a3222ea9476c-344-Making-It.mp3" length="73671458" type="audio/mpeg" />
+            <itunes:summary>
+                <![CDATA[This week Jimmy Diresta, Bob Clagett and David Picciuto talk about things they need to get better at. What We’re Working On Jimmy Diresta Finished the big machinists toolbox David...]]>
+            </itunes:summary>
+            <itunes:duration>01:16:44</itunes:duration>
+            <itunes:author>
+                <![CDATA[I Like To Make Stuff]]>
+            </itunes:author>
+        </item>
+
+
+    </channel>
+</rss>
